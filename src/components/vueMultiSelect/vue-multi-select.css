@@ -392,17 +392,6 @@
   font-size: 10px;
 }
 
-
-/* hide the original HTML checkbox away */
-
-.select .checkbox {
-  color: #ddd;
-  position: absolute;
-  left: -9999px;
-  cursor: pointer;
-}
-
-
 /* checkboxes currently disabled */
 
 .select .disabled,
